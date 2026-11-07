@@ -1,0 +1,131 @@
+{
+  "samples": [
+    {
+      "sample_id": "A",
+      "image": "test_data/CamCard_TestCard_A.png",
+      "card_type": "英文",
+      "split": "pilot",
+      "verified": true,
+      "fields": {
+        "name": [
+          "Alex Chen"
+        ],
+        "company": [
+          "Northstar Studio"
+        ],
+        "job_title": [
+          "Software Engineer"
+        ],
+        "mobile": [
+          "+1 202-555-0142"
+        ],
+        "office": [],
+        "fax": [],
+        "other_phone": [],
+        "email": [
+          "alex.chen@example.com"
+        ],
+        "website": [
+          "www.northstarstudio.example"
+        ],
+        "address": [
+          "1250 Harbor Avenue, San Francisco, CA 94107, USA"
+        ]
+      }
+    },
+    {
+      "sample_id": "B",
+      "image": "test_data/CamCard_TestCard_B.png",
+      "card_type": "中英双语",
+      "split": "pilot",
+      "verified": true,
+      "fields": {
+        "name": [
+          "张明 Zhang Ming"
+        ],
+        "company": [
+          "Galaxy Tech Co., Ltd. 星河科技有限公司"
+        ],
+        "job_title": [
+          "Technical Manager / 技术经理"
+        ],
+        "mobile": [
+          "+86 138-0000-2468"
+        ],
+        "office": [],
+        "fax": [],
+        "other_phone": [],
+        "email": [
+          "zhangming@example.cn"
+        ],
+        "website": [],
+        "address": [
+          "上海市杨浦区四平路 1234 号"
+        ]
+      }
+    },
+    {
+      "sample_id": "C",
+      "image": "test_data/CamCard_TestCard_C.png",
+      "card_type": "英文、多电话及多邮箱",
+      "split": "pilot",
+      "verified": true,
+      "fields": {
+        "name": [
+          "Dr. Emily Parker"
+        ],
+        "company": [
+          "BluePeak Consulting Group"
+        ],
+        "job_title": [
+          "Business Development Director"
+        ],
+        "mobile": [
+          "+1 415-555-0189"
+        ],
+        "office": [
+          "+1 415-555-0120"
+        ],
+        "fax": [
+          "+1 415-555-0190"
+        ],
+        "other_phone": [],
+        "email": [
+          "emily.parker@example.com",
+          "e.parker@bluepeak.example"
+        ],
+        "website": [
+          "www.bluepeak.example"
+        ],
+        "address": [
+          "880 Market Street, Suite 510, San Francisco, CA 94102, USA"
+        ]
+      }
+    },
+    {
+      "sample_id": "D",
+      "image": "test_data/CamCard_TestCard_D.png",
+      "card_type": "英文、缺失字段",
+      "split": "pilot",
+      "verified": true,
+      "fields": {
+        "name": [
+          "Liu Wei"
+        ],
+        "company": [
+          "Sunrise Trading"
+        ],
+        "job_title": [],
+        "mobile": [
+          "+86 139-5555-7788"
+        ],
+        "office": [],
+        "fax": [],
+        "other_phone": [],
+        "email": [],
+        "website": [],
+        "address": []
+      }
+    }
+  ]
+}

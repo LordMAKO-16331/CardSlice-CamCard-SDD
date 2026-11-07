@@ -1,0 +1,1679 @@
+{
+  "batch_id" : "F1A0ADE1-5D68-4707-B18C-3E98E81408E6",
+  "results" : [
+    {
+      "captured_at" : "2026-11-06T11:52:59Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "岑星禾\n砂月虚构实验室\n产品设计师\n手机：+1202-555-0101\n办公电话：+1 212-555-0101\n邮：cardOl@slice.example\n邮：deskol@slice.example\n网站：https://card0l.slice.example\n地址：虚构云屿市纸舟路1号",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路1号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "cardOl@slice.example",
+          "deskol@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "产品设计师"
+        ],
+        "mobile" : [
+          "+1202-555-0101"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0101"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card0l.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F01",
+      "source_image" : "evaluation/formal/images/F01.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:00Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "郁见川\n雾杉虚构实验室\n研发主管\n手机：+1 202-555-0102\n办公电话：+1212-555-0102\n邮：cardO2@slice.example\n地址：虚构云屿市纸舟路2号",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路2号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "cardO2@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "研发主管"
+        ],
+        "mobile" : [
+          "+1 202-555-0102"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0102"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F02",
+      "source_image" : "evaluation/formal/images/F02.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:00Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "星绢虚构实验室\n仇云岫\n客户经理\n地址：虚构云屿市纸舟路3号\n网站：https://card03.slice.example\n邮租：card03@slice.example\n手机：+1 202-555-0103",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路3号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card03@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "客户经理"
+        ],
+        "mobile" : [
+          "+1 202-555-0103"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card03.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F03",
+      "source_image" : "evaluation/formal/images/F03.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:01Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "申予棠\n青砾虚构实验室\n视觉设计师\n手机：+1 202-555-0104\n办公电话：+1 212-555-0104\n传真：+1415-555-0104\n邮籍：card04@slice.example\n网站：https://card04.slice.example\n地址：虚构云屿市纸舟路4号",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路4号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card04@slice.example"
+        ],
+        "fax" : [
+          "+1415-555-0104"
+        ],
+        "job_title" : [
+          "视觉设计师"
+        ],
+        "mobile" : [
+          "+1 202-555-0104"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0104"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card04.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F04",
+      "source_image" : "evaluation/formal/images/F04.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:02Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "伏澄野\n苔舟虚构买验室\n手机：+1 202-555-0105\n办公电话：+1212-555-0105\n邮：card05@slice.example\n邮租：desk05@slice.example\n网站：https://card05.slice.example\n地址：虚构云屿市纸舟路5号",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路5号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card05@slice.example",
+          "desk05@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0105"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0105"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card05.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F05",
+      "source_image" : "evaluation/formal/images/F05.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:02Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "雪缎虚构实验室\n蔺书遥\n颀量工程师\n地址：虚构云屿市纸舟路6号\n手机：+1 202-555-0106",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路6号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "颀量工程师"
+        ],
+        "mobile" : [
+          "+1 202-555-0106"
+        ],
+        "name" : [
+          "蔺书遥"
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F06",
+      "source_image" : "evaluation/formal/images/F06.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:03Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "商砚宁\n墨穗虚构实验室\n产品设计师\n手机：+1 202-555-0107\n办公电话：+1212-555-0107\n邮：cardO7@slice.example\n网站：https://cardO7.slice.example",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "cardO7@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "产品设计师"
+        ],
+        "mobile" : [
+          "+1 202-555-0107"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0107"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://cardO7.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F07",
+      "source_image" : "evaluation/formal/images/F07.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:04Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "纪南霁\n霜灯虚构实验室\n研发主管\n手机：+1 202-555-0108\n办公电话：+1 212-555-0108\n传真：+1 415-555-0108\n邮：card08@slice.example\n网站：https://card08.slice.example\n地址：虚构云屿市纸舟路8号",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路8号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card08@slice.example"
+        ],
+        "fax" : [
+          "+1 415-555-0108"
+        ],
+        "job_title" : [
+          "研发主管"
+        ],
+        "mobile" : [
+          "+1 202-555-0108"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0108"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card08.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F08",
+      "source_image" : "evaluation/formal/images/F08.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:04Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Sandmoon Fiction Lab\nAvery Vellstrand\nAccount Manager\nAddress: 9 Paperboat Lane, Fiction Borough\nWebsite: https://card09.slice.example\nEmail: cardo9@slice.example\nEmail: deskog@slice.example\nMobile： +1 202-555-0109\nOther： +1 617-555-0109",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "9 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "cardo9@slice.example",
+          "deskog@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "Account Manager"
+        ],
+        "mobile" : [
+          "+1 202-555-0109"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+          "+1 617-555-0109"
+        ],
+        "website" : [
+          "https://card09.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F09",
+      "source_image" : "evaluation/formal/images/F09.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:05Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Rowan Fernwick\nMistcedar Fiction Lab\nMobile： +1 202-555-0110\nOffice： +1 212-555-0110\nEmail: card 10@slice.example\nAddress: 10 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "10 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "10@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0110"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0110"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F10",
+      "source_image" : "evaluation/formal/images/F10.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:06Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Ellis Amberfen\nStarsilk Fiction Lab\nTechnical Consultant\nMobile： +1 202-555-0111\nOffice： +1 212-555-0111\nEmail: card11@slice.example\nWebsite: nttps://card11.slice.example\nAddress: 11 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "11 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card11@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "Technical Consultant"
+        ],
+        "mobile" : [
+          "+1 202-555-0111"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0111"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F11",
+      "source_image" : "evaluation/formal/images/F11.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:06Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Jadegrit Fiction Lab\nJules Thornfold\nQuality Engineer\nAddress: 12 Paperboat Lane, Fiction Borough\nWebsite:https://card12.slice.example\nFax： +1 415-555-0112\nMobile： +1 202-555-0112",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "12 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+          "+1 415-555-0112"
+        ],
+        "job_title" : [
+          "Quality Engineer"
+        ],
+        "mobile" : [
+          "+1 202-555-0112"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card12.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F12",
+      "source_image" : "evaluation/formal/images/F12.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:07Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Mira Wrenvale\nMossboat Fiction Lab\nProduct Designer\nMobile： +1 202-555-0113\nOffice： +1 212-555-0113\nEmail: card13@slice.example\nEmail: desk13@slice.example\nWebsite: https://card13.slice.example\nAddress: 13 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "13 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card13@slice.example",
+          "desk13@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "Product Designer"
+        ],
+        "mobile" : [
+          "+1 202-555-0113"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0113"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card13.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F13",
+      "source_image" : "evaluation/formal/images/F13.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:08Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Morgan Brindlepath\nSnowweave Fiction Lab\nEngineering Lead\nMobile： +1 202-555-0114\nOffice： +1212-555-0114\nEmail: card 14@slice.example",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "14@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0114"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0114"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F14",
+      "source_image" : "evaluation/formal/images/F14.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:08Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Inkgrain Fiction Lab\nTessa Mossquay\nAddress: 15 Paperboat Lane, Fiction Borough\nWebsite: https://card15.slice.example\nEmail card15@slice.example\nMobile： +1 202-555-0115",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "15 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card15@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0115"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card15.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F15",
+      "source_image" : "evaluation/formal/images/F15.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:09Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Sage Quillmere\nFrostlamp Fiction Lab\nVisual Designer\nMobile： +1 202-555-0116\nOffice： +1212-555-0116\nFax：+1415-555-0116\nEmail: card16@slice.example\nWebsite: https://card16.slice.example\nAddress: 16 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "16 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card16@slice.example"
+        ],
+        "fax" : [
+          "+1415-555-0116"
+        ],
+        "job_title" : [
+          "Visual Designer"
+        ],
+        "mobile" : [
+          "+1 202-555-0116"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0116"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card16.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F16",
+      "source_image" : "evaluation/formal/images/F16.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:10Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "岑云岫／ Avery Fernwick\n砂月虚构实验室 / Sandmoon Fiction Lab\n技术顾问 ／ Technical Consultant\nMobile：+1 202-555-0117\nOffice： +1 212-555-0117\nEmail: card17@slice.example\nEmail: desk17@slice.example\nWebsite: https://card17.slice.example\nAddress：虚构云屿市纸舟路17号/17 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路17号/17 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card17@slice.example",
+          "desk17@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "技术顾问 ／ Technical Consultant"
+        ],
+        "mobile" : [
+          "+1 202-555-0117"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0117"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card17.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F17",
+      "source_image" : "evaluation/formal/images/F17.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:10Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "雾杉虚构买验室 ／ Mistcedar Fiction Lab\n郁予棠/ Rowan Amberfen\n质量工程师 ／ Quality Engineer\nAddress：虚构云屿市纸舟路18号/18 Paperboat Lane, Fiction Borough\nMobile：+1 202-555-0118\nOther： +1 617-555-0118",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路18号/18 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "质量工程师 ／ Quality Engineer"
+        ],
+        "mobile" : [
+          "+1 202-555-0118"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+          "+1 617-555-0118"
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F18",
+      "source_image" : "evaluation/formal/images/F18.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:11Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "仇澄野 ／ Ellis Thornfold\n星绢虚构实验室 ／ Starsilk Fiction Lab\n产品设计师／Product Designer\nMobile： +1 202-555-0119\nOffice： +1 212-555-0119\nEmail: cara19@slice.example\nWebsite: https://card19.slice.example\nAddress： 虚构云屿市纸舟路19号/ 19 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路19号/ 19 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "cara19@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "产品设计师／Product Designer"
+        ],
+        "mobile" : [
+          "+1 202-555-0119"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0119"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card19.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F19",
+      "source_image" : "evaluation/formal/images/F19.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:12Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "甲书遥/ Jules Wrenvale\n青砾虚构实验室 ／ Jadegrit Fiction Lab\nMobile： +1 202-555-0120\nOffice：+1212-555-0120\nFax： +1415-555-0120\nEmail: card20@slice.example\nWebsite: https://card20.slice.example\nAddress： 虚构云屿市纸舟路20号/ 20 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路20号/ 20 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card20@slice.example"
+        ],
+        "fax" : [
+          "+1415-555-0120"
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0120"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0120"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card20.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F20",
+      "source_image" : "evaluation/formal/images/F20.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:12Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "苔舟虚构实验室 / Mossboat Fiction Lab\n伏砚宁 ／ Mira Brindllepath\n各户经理／Account Manager\nWebsite: https://card21.slice.example\nEmail: cara21@slice.example\nEmail: desk21@slice.example\nMobile： +1 202-555-0121",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "cara21@slice.example",
+          "desk21@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "各户经理／Account Manager"
+        ],
+        "mobile" : [
+          "+1 202-555-0121"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card21.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F21",
+      "source_image" : "evaluation/formal/images/F21.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:13Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "蔺南霁／ Morgan Mossquay\n雪缎虚构买验室 ／ Snowweave Fiction Lab\n视觉设计师/ Visual Designer\nMobile： +1 202-555-0122\nOffice：+1212-555-0122\nEmail: card22@slice.example\nAddress：虚构云屿市纸舟路22号/22 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路22号/22 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card22@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "视觉设计师/ Visual Designer"
+        ],
+        "mobile" : [
+          "+1 202-555-0122"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0122"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F22",
+      "source_image" : "evaluation/formal/images/F22.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:14Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "商星禾/ Tessa Quillmere\n墨穗虚构实验室 ／ Inkgrain Fiction Lab\n技术顾问 ／ Technical Consultant\nMobile： +1 202-555-0123\nOffice： +1 212-555-0123\nEmail: card23@slice.example\nWebsite: https://card23.slice.example\nAddress：虚构云屿市纸舟路23号/ 23 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路23号/ 23 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card23@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "技术顾问 ／ Technical Consultant"
+        ],
+        "mobile" : [
+          "+1 202-555-0123"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0123"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card23.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F23",
+      "source_image" : "evaluation/formal/images/F23.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:15Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "霜灯虚构实验室 ／ Frostlamp Fiction Lab\n纪见川／ Sage Vellstrand\n质量工程师 ／ Quality Engineer\nAddress： 虚构云屿市纸舟路24号/ 24 Paperboat Lane, Fiction Borough\nWebsite: https://card24.slice.example\nFax：+1 415-555-0124\nMobile： +1 202-555-0124",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路24号/ 24 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+          "+1 415-555-0124"
+        ],
+        "job_title" : [
+          "质量工程师 ／ Quality Engineer"
+        ],
+        "mobile" : [
+          "+1 202-555-0124"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card24.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F24",
+      "source_image" : "evaluation/formal/images/F24.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:15Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "岑予棠\n砂月虚构买验室\n手机：+1 202-555-0125\n办公电话：+1212-555-0125\n邮：card25@slice.example\n邮租：desk25@slice.example\n网站：https://card25.slice.example\n地址：虚构云屿市纸舟路25号",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路25号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card25@slice.example",
+          "desk25@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0125"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0125"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card25.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F25",
+      "source_image" : "evaluation/formal/images/F25.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:16Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Rowan Thornfold\nMistcedar Fiction Lab\nEngineering Lead\nMobile： +1 202-555-0126\nOffice： +1 212-555-0126\nEmail: card26@slice.example\nAddress: 26 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "26 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card26@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0126"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1 212-555-0126"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F26",
+      "source_image" : "evaluation/formal/images/F26.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:17Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "仇书遥/ Ellis Wrenvale\n星绢虚构实验室 ／ Starsilk Fiction Lab\n客户经理／ Account Manager\nAddress：虚构云屿市纸舟路27号/27 Paperboat Lane, Fiction Borough\nWebsite: https://card27.slice.example\nEmail: card27@slice.example\nMobile： +1 202-555-0127\nOther： +1 617-555-0127",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路27号/27 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card27@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "客户经理／ Account Manager"
+        ],
+        "mobile" : [
+          "+1 202-555-0127"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+          "+1 617-555-0127"
+        ],
+        "website" : [
+          "https://card27.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F27",
+      "source_image" : "evaluation/formal/images/F27.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:17Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "申砚宁\n青砾虚构实验室\n视觉设计师\n手机：+1 202-555-0128\n办公电话：+1212-555-0128\n传真：+1415-555-0128\n邮：card28@slice.example\n网站：https://card28.slice.example",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card28@slice.example"
+        ],
+        "fax" : [
+          "+1415-555-0128"
+        ],
+        "job_title" : [
+          "视觉设计师"
+        ],
+        "mobile" : [
+          "+1 202-555-0128"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0128"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card28.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F28",
+      "source_image" : "evaluation/formal/images/F28.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:18Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Mossboat Fiction Lab\nMira Mossquay\nTechnical Consultant\nMobile： +1 202-555-0129\nEmail: card29@slice.example\nOffice： +1212-555-0129\nEmail: desk29@slice.example\nWebsite: https://card29.slice.example\nAddress: 29 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "29 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card29@slice.example",
+          "desk29@slice.example"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "Technical Consultant"
+        ],
+        "mobile" : [
+          "+1 202-555-0129"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+          "+1212-555-0129"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card29.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F29",
+      "source_image" : "evaluation/formal/images/F29.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:18Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "雪缎虚构买验室 ／ Snowweave Fiction Lab\n蔺星禾 ／ Morgan Quillmere\nMobile： +1 202-555-0130\nAddress：虚构云屿市纸舟路30号/30 Paperboat Lane, Fiction Borough",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路30号/30 Paperboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+          "+1 202-555-0130"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F30",
+      "source_image" : "evaluation/formal/images/F30.png"
+    },
+    {
+      "capture_error" : "OCR：未识别到文字，可更换图片或恢复预处理图片后重试。",
+      "captured_at" : "2026-11-06T11:53:19Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+
+      ],
+      "ocr_raw_text" : "",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F31",
+      "source_image" : "evaluation/formal/images/F31.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:19Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Sage Ferrwick\nFrettiane Fetem Lae\nEngererg Lamt\nAIDemE NE FwNHaE Lare Fwten Bumer",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F32",
+      "source_image" : "evaluation/formal/images/F32.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:20Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "砂月虚构实验室/ Sandmoon Fiction Lab\n岑澄野／ Avery Thornfold\n客户经理/ Account Manager\nAddress： 虚构云屿市抵舟路33号/33 Paporboat Lane, Fiction Borough\nWobsite: https://card33.slice.example\nEmail: card33@slice.example\nEmail: desk33@slice.oxampie\nMobile： +1 202-555-0133",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市抵舟路33号/33 Paporboat Lane, Fiction Borough"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+          "card33@slice.example",
+          "desk33@slice.oxampie"
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "客户经理/ Account Manager"
+        ],
+        "mobile" : [
+          "+1 202-555-0133"
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+          "https://card33.slice.example"
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F33",
+      "source_image" : "evaluation/formal/images/F33.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:20Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "郁书遥\n窝杉虚构実验室\n视觉设计师\n手机：+1 202-555-0134\nか公电话：+1212-555-0134\n邮糖：card34Gslice.example\n地址：虚构云屿市纸舟路34号",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "虚构云屿市纸舟路34号"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+          "视觉设计师"
+        ],
+        "mobile" : [
+          "+1 202-555-0134"
+        ],
+        "name" : [
+          "郁书遥"
+        ],
+        "office" : [
+          "+1212-555-0134"
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F34",
+      "source_image" : "evaluation/formal/images/F34.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:21Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "Ellis Brindlepath\nStarsilk Fiction Lab\nMebiler +1202-565-0135\nOfcec+1212-465-0135\nEmal cands@sice aampi\nWetwtk peps:/icardss alce euamcie",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+
+        ],
+        "name" : [
+          "Ellis Brindlepath"
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+          "+1202-565-0135",
+          "1212-465-0135"
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F35",
+      "source_image" : "evaluation/formal/images/F35.png"
+    },
+    {
+      "captured_at" : "2026-11-06T11:53:21Z",
+      "corrected_fields" : null,
+      "device" : "iPhone 17",
+      "input_variant" : "prepared_without_perspective_correction",
+      "ocr_languages" : [
+        "zh-Hans",
+        "en-US"
+      ],
+      "ocr_raw_text" : "青布店代火推室/Jetegre Femen Lae\n申南業/ Jules Mossquey\n原業工相师/Oulty Engreer\nABIeE BNEREAM36号/36 FupeSoar Lane Funmn Bureun",
+      "os" : "iOS 27.0",
+      "parsed_fields" : {
+        "address" : [
+          "ABIeE BNEREAM36号/36 FupeSoar Lane Funmn Bureun"
+        ],
+        "company" : [
+
+        ],
+        "email" : [
+
+        ],
+        "fax" : [
+
+        ],
+        "job_title" : [
+
+        ],
+        "mobile" : [
+
+        ],
+        "name" : [
+
+        ],
+        "office" : [
+
+        ],
+        "other_phone" : [
+
+        ],
+        "website" : [
+
+        ]
+      },
+      "reference_parsed_fields" : null,
+      "sample_id" : "F36",
+      "source_image" : "evaluation/formal/images/F36.png"
+    }
+  ],
+  "split" : "formal"
+}

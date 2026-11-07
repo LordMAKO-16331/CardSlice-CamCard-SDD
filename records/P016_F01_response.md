@@ -1,0 +1,9 @@
+# P016-F01 执行报告
+
+- 实际原因：原解析器对显式Name/姓名标签与纯外形候选一视同仁，single("姓名")在候选数量>1时直接返回nil，而reviews仍保留候选；因此UI显示“未识别”与下方候选同时出现。原候选没有按可靠依据排序，只保留出现顺序。UI读取parsedContact.fields.name，Draft也从result.fields.name初始化，无数据传递或映射错误。未取得用户问题图片对应的原始OCR，本轮不能断言其具体是哪条文本造成冲突。
+- 修改：Services/CardContactFieldParser.swift、Views/CardImageImportView.swift、CardSliceTests/CardContactFieldParserTests.swift；另归档完整Prompt和本报告。Draft/校正表单/业务模型及SwiftData保存逻辑均未修改。
+- 修复：区分显式姓名标签与姓名外形候选，OCR置信度>=0.5且无公司线索的显式候选优先；同级仅一项时填入name，多项仍nil。无有效显式项时，只接受唯一可用外形候选。公司排除线索补充company/group/services/solutions/trading/limited及公司/集团/中心，不以首字母大写认定公司；仅启发式，非统计概率。
+- 保留：原rawText不变，所有姓名候选在reviews统一列出，低置信度及标签下公司冲突有提示；自动填入后仍提示人工核验。UI对nil且已有候选明确显示“已发现候选但尚未确定”，人工校正继续从最终name读取且可编辑。
+- 新增8项确定性测试：testUniqueChineseAndEnglishNameCandidatesAreAssigned、testExplicitNameWinsOverUnlabeledShapeWithoutLosingCandidates、testExplicitChineseNameWinsOverShortUnlabeledText、testCompanyFirstIsNotAnExtraNameCandidate、testConflictingExplicitNamesRemainAmbiguous、testCompanyUnderNameLabelIsNotAssignedAsName、testLowConfidenceOnlyNameRemainsUnselected、testNoNameEvidenceStaysMissing。保留原有15项测试及全部断言。
+- 局限：未提供原问题OCR文本，不能保证该4张图片的具体失败全部修复；没有标签且多个合理姓名仍需人工判断，未带公司线索的商号仍可能符合姓名外形；置信度阈值及公司词规则为DECISION/TEMP。未修改电话/邮箱算法，新测试涵盖其兼容性但未执行。
+- 构建与测试：NOT_RUN，等待用户Xcode验证。课程T01～T20：NOT_RUN。未执行构建、测试、模拟器或Git操作，未开始其他任务。

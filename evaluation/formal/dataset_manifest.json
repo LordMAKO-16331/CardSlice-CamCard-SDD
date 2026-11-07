@@ -1,0 +1,1032 @@
+{
+  "challenge_card_scale" : 0.8,
+  "fonts" : [
+    "HiraginoSansGB-W3",
+    "HelveticaNeue"
+  ],
+  "macos_version" : "Version 27.0.1 (Build 26A434)",
+  "samples" : [
+    {
+      "detail_font_pt" : 23,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F01.png",
+      "layout" : "name_first",
+      "name_font_pt" : 44,
+      "palette_index" : 1,
+      "sample_id" : "F01",
+      "sha256" : "d59f049ea79938adabf79f7c75d2c2e1ea1d93bf9dd37f4043c176cb08b56a1e",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 24,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F02.png",
+      "layout" : "name_first",
+      "name_font_pt" : 35,
+      "palette_index" : 5,
+      "sample_id" : "F02",
+      "sha256" : "899801ccef8dfe7d2b0b6aee54fcc080fa26d2f2fdd5f83949e17dc173a73361",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 26,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F03.png",
+      "layout" : "company_first",
+      "name_font_pt" : 35,
+      "palette_index" : 4,
+      "sample_id" : "F03",
+      "sha256" : "571803a700c14377e5c82758652a883059873bef6219c19dc66658ca71fe1eb5",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 27,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F04.png",
+      "layout" : "name_first",
+      "name_font_pt" : 46,
+      "palette_index" : 4,
+      "sample_id" : "F04",
+      "sha256" : "351a1ab5db29aef2b479ea70c4faf22c7a69b011a834e33619bd90b47c5465a6",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 20,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F05.png",
+      "layout" : "name_first",
+      "name_font_pt" : 45,
+      "palette_index" : 2,
+      "sample_id" : "F05",
+      "sha256" : "f3640878109feab3d59a1793f0989e11baaf61788dd3fcc7942518d1942560b9",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 20,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F06.png",
+      "layout" : "company_first",
+      "name_font_pt" : 40,
+      "palette_index" : 2,
+      "sample_id" : "F06",
+      "sha256" : "a0dd04f44b8cdeb5a6958d2f60f3946a7ca5edb3372353c038db86d14a36a7b2",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 25,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F07.png",
+      "layout" : "name_first",
+      "name_font_pt" : 40,
+      "palette_index" : 4,
+      "sample_id" : "F07",
+      "sha256" : "b7c3babd09ef48aaad5b72d0738066060f1d4339a70916c5afa8685bede9573b",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 21,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F08.png",
+      "layout" : "name_first",
+      "name_font_pt" : 37,
+      "palette_index" : 1,
+      "sample_id" : "F08",
+      "sha256" : "14151e9fb536617842e879c49839543ce1baf1cd7bd8dab897210a433cdf34ee",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 20,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F09.png",
+      "layout" : "company_first",
+      "name_font_pt" : 41,
+      "palette_index" : 1,
+      "sample_id" : "F09",
+      "sha256" : "3761413b46a5087d87b2d7fac801535fff948a860738ec14080bb967fa6177a8",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 20,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F10.png",
+      "layout" : "name_first",
+      "name_font_pt" : 37,
+      "palette_index" : 0,
+      "sample_id" : "F10",
+      "sha256" : "2be77a5eeda4a77affea645f007d5e48d03533a194b12547f8135702ac93239b",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 20,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F11.png",
+      "layout" : "name_first",
+      "name_font_pt" : 45,
+      "palette_index" : 3,
+      "sample_id" : "F11",
+      "sha256" : "fe1c57bad41ec8ff7c7ebbb47ce40d44a8415bbc2289747de492797c9d1b5998",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 27,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F12.png",
+      "layout" : "company_first",
+      "name_font_pt" : 48,
+      "palette_index" : 1,
+      "sample_id" : "F12",
+      "sha256" : "309373df1a7344e310d1c3545612113dd53a978f95ff7c543b92f3fdd2bbfa12",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 25,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F13.png",
+      "layout" : "name_first",
+      "name_font_pt" : 41,
+      "palette_index" : 4,
+      "sample_id" : "F13",
+      "sha256" : "67b81db892f874772441018bd9d8856a44fa8a8af8135bcbfb1ec0862705fac4",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 23,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F14.png",
+      "layout" : "name_first",
+      "name_font_pt" : 45,
+      "palette_index" : 0,
+      "sample_id" : "F14",
+      "sha256" : "ef31a5c378e746436bdb77dada02b73d8c8eb6ee6166c9f220e617dcc2fe6311",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 27,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F15.png",
+      "layout" : "company_first",
+      "name_font_pt" : 37,
+      "palette_index" : 0,
+      "sample_id" : "F15",
+      "sha256" : "fb3cf991c6f2c71ccca0371247c5320099ab13489324d6a3ca42c69bbc0682a4",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 27,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F16.png",
+      "layout" : "name_first",
+      "name_font_pt" : 37,
+      "palette_index" : 2,
+      "sample_id" : "F16",
+      "sha256" : "463c8c1ba79774c9c589d0b027931666d450182c951bc77575801e413282a75e",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 25,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F17.png",
+      "layout" : "name_first",
+      "name_font_pt" : 49,
+      "palette_index" : 5,
+      "sample_id" : "F17",
+      "sha256" : "ce46331bd374067eb50253f8b3562d069ee9bbe00bc273e467055e5b07b90a58",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 25,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F18.png",
+      "layout" : "company_first",
+      "name_font_pt" : 37,
+      "palette_index" : 0,
+      "sample_id" : "F18",
+      "sha256" : "ced1c47cdc7beba8ff84b1d4fd480e16955c26b5a162a10fa8c0141d9872ffb3",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 24,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F19.png",
+      "layout" : "name_first",
+      "name_font_pt" : 46,
+      "palette_index" : 0,
+      "sample_id" : "F19",
+      "sha256" : "a07ad2c013986e8453a1de4453e2a6d495cec571f308aa81d0c49045b000d20a",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 26,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F20.png",
+      "layout" : "name_first",
+      "name_font_pt" : 43,
+      "palette_index" : 1,
+      "sample_id" : "F20",
+      "sha256" : "d3035fcdda1174686058a4c2417a0aadf310fc6c86b662f365082dca02b893bf",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 22,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F21.png",
+      "layout" : "company_first",
+      "name_font_pt" : 47,
+      "palette_index" : 3,
+      "sample_id" : "F21",
+      "sha256" : "9ee9c7857ff66209a6332bcdd3b93df9a3a0e1ce5e4db04a1842cd2cc7f7c7f5",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 22,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F22.png",
+      "layout" : "name_first",
+      "name_font_pt" : 48,
+      "palette_index" : 2,
+      "sample_id" : "F22",
+      "sha256" : "121996bd05854f7b2d95b8912e01bf34199ba0fe26d6efd2d74876473b4e68f0",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 25,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 690,
+      "image" : "evaluation/formal/images/F23.png",
+      "layout" : "name_first",
+      "name_font_pt" : 37,
+      "palette_index" : 4,
+      "sample_id" : "F23",
+      "sha256" : "3a3add72d2b4ecc0f483dec9626595a7f61320218a73d686e0f60c1b8d5e9d92",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1260
+    },
+    {
+      "detail_font_pt" : 22,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 650,
+      "image" : "evaluation/formal/images/F24.png",
+      "layout" : "company_first",
+      "name_font_pt" : 36,
+      "palette_index" : 3,
+      "sample_id" : "F24",
+      "sha256" : "4c9dd24b926d15559db17cd49935a47de526c6f681f55525a77353f056d9e949",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1150
+    },
+    {
+      "detail_font_pt" : 20,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 1100,
+      "image" : "evaluation/formal/images/F25.png",
+      "layout" : "portrait",
+      "name_font_pt" : 39,
+      "palette_index" : 0,
+      "sample_id" : "F25",
+      "sha256" : "84aeba03f709c4fbbce072b520d4a62c3c937b948432e9251573e80fb4825665",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 880
+    },
+    {
+      "detail_font_pt" : 21,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 1100,
+      "image" : "evaluation/formal/images/F26.png",
+      "layout" : "portrait",
+      "name_font_pt" : 42,
+      "palette_index" : 4,
+      "sample_id" : "F26",
+      "sha256" : "c141e87c2986900adc5594e0e0aa4f5d2340161cbb184de8b9a6146a3579386c",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 880
+    },
+    {
+      "detail_font_pt" : 21,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 1100,
+      "image" : "evaluation/formal/images/F27.png",
+      "layout" : "portrait",
+      "name_font_pt" : 47,
+      "palette_index" : 2,
+      "sample_id" : "F27",
+      "sha256" : "d85b229e977cd34cf389356f4e14f76653a105f1c0ef0fbb522c4da8f4379a26",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 880
+    },
+    {
+      "detail_font_pt" : 27,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 1100,
+      "image" : "evaluation/formal/images/F28.png",
+      "layout" : "portrait",
+      "name_font_pt" : 49,
+      "palette_index" : 0,
+      "sample_id" : "F28",
+      "sha256" : "e6212475b64caf766b2d3767c793b752eb56a3f0b87b491570163c37659533fb",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 880
+    },
+    {
+      "detail_font_pt" : 21,
+      "difficulty" : "clean",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 610,
+      "image" : "evaluation/formal/images/F29.png",
+      "layout" : "split_columns",
+      "name_font_pt" : 38,
+      "palette_index" : 4,
+      "sample_id" : "F29",
+      "sha256" : "2dd69aa883a3d8442221f9b72253a5c429860a1c2c5cc09fa19e0ee126284ef7",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1420
+    },
+    {
+      "detail_font_pt" : 20,
+      "difficulty" : "clean",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 610,
+      "image" : "evaluation/formal/images/F30.png",
+      "layout" : "split_columns",
+      "name_font_pt" : 39,
+      "palette_index" : 3,
+      "sample_id" : "F30",
+      "sha256" : "4aa869170e6ff928cc79f89a23ad6c9e387ebe2dcec2df2d245d78ddb8430764",
+      "variant" : {
+        "angle_degrees" : 0,
+        "blur_radius_px" : 0,
+        "contrast" : 1,
+        "patterned_background" : false,
+        "render_scale" : 1
+      },
+      "width_px" : 1420
+    },
+    {
+      "clear_image" : "evaluation/formal/clear/F31.png",
+      "clear_sha256" : "3b04f3fe8fedc88668918fd346e4d6bcd18330bf2893a7974ef9e929ff63b62f",
+      "detail_font_pt" : 21,
+      "difficulty" : "challenge",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 366,
+      "image" : "evaluation/formal/images/F31.png",
+      "layout" : "name_first",
+      "name_font_pt" : 41,
+      "palette_index" : 5,
+      "sample_id" : "F31",
+      "sha256" : "78279cc59836072f1d78aefa4a58899fc72cb79c2c157f39d212151de43c411d",
+      "variant" : {
+        "angle_degrees" : -3,
+        "blur_radius_px" : 2,
+        "contrast" : 0.62,
+        "patterned_background" : false,
+        "render_scale" : 0.53
+      },
+      "width_px" : 668
+    },
+    {
+      "clear_image" : "evaluation/formal/clear/F32.png",
+      "clear_sha256" : "8f7429f020e3452ccbf6e87ff8b3613b9b77e2bdad6744ae3397ef904626077b",
+      "detail_font_pt" : 27,
+      "difficulty" : "challenge",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 345,
+      "image" : "evaluation/formal/images/F32.png",
+      "layout" : "name_first",
+      "name_font_pt" : 45,
+      "palette_index" : 0,
+      "sample_id" : "F32",
+      "sha256" : "ecc2e36244709ac64d52c714228dce4cd92e4d8b4050bb7362f999244baa7327",
+      "variant" : {
+        "angle_degrees" : 3,
+        "blur_radius_px" : 2,
+        "contrast" : 0.85,
+        "patterned_background" : true,
+        "render_scale" : 0.53
+      },
+      "width_px" : 610
+    },
+    {
+      "clear_image" : "evaluation/formal/clear/F33.png",
+      "clear_sha256" : "49d595b347e7f1309765fc53d7d6fc79fd9f38cf3eb3cddea5347acdff2b8904",
+      "detail_font_pt" : 23,
+      "difficulty" : "challenge",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 524,
+      "image" : "evaluation/formal/images/F33.png",
+      "layout" : "company_first",
+      "name_font_pt" : 47,
+      "palette_index" : 0,
+      "sample_id" : "F33",
+      "sha256" : "7afac004e42a7d40351e994aeed9153b21a7a4673b57367404075a3c2effd51f",
+      "variant" : {
+        "angle_degrees" : -2,
+        "blur_radius_px" : 1,
+        "contrast" : 0.85,
+        "patterned_background" : false,
+        "render_scale" : 0.76
+      },
+      "width_px" : 958
+    },
+    {
+      "clear_image" : "evaluation/formal/clear/F34.png",
+      "clear_sha256" : "3a8d3d75fa0911dda922039019e2081d1bcebc897b10c835baf25049712f9f6c",
+      "detail_font_pt" : 25,
+      "difficulty" : "challenge",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 423,
+      "image" : "evaluation/formal/images/F34.png",
+      "layout" : "name_first",
+      "name_font_pt" : 49,
+      "palette_index" : 0,
+      "sample_id" : "F34",
+      "sha256" : "69e9e42a7f9afceb95d20e08b81bf9e1c753913f6528ef956c79ceb60e7aabee",
+      "variant" : {
+        "angle_degrees" : 3,
+        "blur_radius_px" : 1,
+        "contrast" : 0.74,
+        "patterned_background" : true,
+        "render_scale" : 0.65
+      },
+      "width_px" : 748
+    },
+    {
+      "clear_image" : "evaluation/formal/clear/F35.png",
+      "clear_sha256" : "ecce9cf76c98c8dd5617ee4c4a5ae92caed96093a9027c31c05b3fdcbfc2184b",
+      "detail_font_pt" : 23,
+      "difficulty" : "challenge",
+      "field_order" : [
+        "mobile",
+        "office",
+        "fax",
+        "other_phone",
+        "email",
+        "website",
+        "address"
+      ],
+      "height_px" : 366,
+      "image" : "evaluation/formal/images/F35.png",
+      "layout" : "name_first",
+      "name_font_pt" : 44,
+      "palette_index" : 4,
+      "sample_id" : "F35",
+      "sha256" : "f8eb99e54b02914c6a38af62968e509226050f4ff040fec52a7e438d44b7d414",
+      "variant" : {
+        "angle_degrees" : -2,
+        "blur_radius_px" : 1,
+        "contrast" : 0.62,
+        "patterned_background" : false,
+        "render_scale" : 0.53
+      },
+      "width_px" : 668
+    },
+    {
+      "clear_image" : "evaluation/formal/clear/F36.png",
+      "clear_sha256" : "2e7fc95c0174f004ef732ba33e30dc4133470895e5cc043b0793ec7d2d894776",
+      "detail_font_pt" : 27,
+      "difficulty" : "challenge",
+      "field_order" : [
+        "address",
+        "website",
+        "email",
+        "office",
+        "fax",
+        "mobile",
+        "other_phone"
+      ],
+      "height_px" : 345,
+      "image" : "evaluation/formal/images/F36.png",
+      "layout" : "company_first",
+      "name_font_pt" : 38,
+      "palette_index" : 3,
+      "sample_id" : "F36",
+      "sha256" : "2aef9d6a37cd55b3188ae2c9c6f782b8003eddf44ba44bf8b2717464f0f6b1ef",
+      "variant" : {
+        "angle_degrees" : 4,
+        "blur_radius_px" : 2,
+        "contrast" : 0.85,
+        "patterned_background" : true,
+        "render_scale" : 0.53
+      },
+      "width_px" : 610
+    }
+  ],
+  "schema_version" : 1,
+  "seed" : 20261106
+}

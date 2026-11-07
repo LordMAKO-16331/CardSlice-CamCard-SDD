@@ -1,0 +1,10 @@
+# P016 执行报告
+
+- 新增 Services/CardContactFieldParser.swift、CardSliceTests/CardContactFieldParserTests.swift；修改 Views/CardImageImportView.swift；另保存完整Prompt与本报告。未修改业务模型、OCR、数据层、原有测试或工程配置。
+- 规则：本地正则提取邮箱/显式URL，先识别地址避免门牌/邮编被当电话；电话保留原号码格式，依据同一行最近前置标签或上一标签行确定Mobile/Office/Fax，无标签为Other。接收常见大陆手机号、带国际前缀或有明确分隔形式的长号码；日期排除。公司/职位使用中英文关键词，显式标签优先；姓名使用中英文外形规则，均提示核验，不只取第一行。多候选标记歧义并留空单值字段。
+- 多值：电话按数字序列去重（不删改展示号码），冲突类别保留首项并提示；邮箱按完全相同字符串去重。多个网站候选保留待确认，不从邮箱推断网站。可识别地址续行以换行拼接，无法分类的原行保留rawTextSegments。
+- 结果：复用ParsedContactFields和PhoneEntry；独立CardContactParseResult保存不变rawText、fields、reviews。review含字段、候选、原因，不提供伪校准概率。低OCR置信度提示核验。服务MainActor隔离，与当前业务模型一致，不依赖SwiftUI或数据库。
+- UI：OCR完成后主动解析；折叠结果区可滚动查看姓名/公司/职位/电话/邮箱/网站/地址、未分类原文与待确认信息，标记DECISION/TEMP。原始OCR仍可见；clearOCR同时清空解析结果，覆盖换图、重新OCR、矫正、恢复及关闭流程。错误通过parsingError显示，不保存正式名片。
+- 新增15项测试：testEmptyTextIsSafe、testChineseIdentity、testEnglishIdentityCompanyFirst、testMainlandAndInternationalPhonesPreserveDigits、testPhoneTypesByNearbyLabels、testMultiplePhonesAreDeduplicated、testMultipleEmailsAreDeduplicated、testWebsiteAndEmailAreDistinct、testMissingWebsiteIsNil、testChineseAndEnglishMultilineAddresses、testAddressPostalCodeAndDateAreNotPhones、testUnknownTextIsPreserved、testSameInputIsDeterministicAndRawTextUnchanged、testAmbiguousNamesStayUnselected、testAdjacentPhoneLabelAndConflictingTypes。合成虚构文本，不依赖OCR或相册；未执行。
+- 局限：姓名形态匹配可能误判短语，必须人工确认；未支持所有国家号码/分机/复杂地址、公司职位混合行拆分、多栏位置关联。宽松地址关键词可能误收非地址行；仅数字且无标签的非大陆号码保守留为未分类。所有规则仍须固定数据集评估，未宣称高精度。小屏折叠结果区及15项测试需用户Xcode验证。
+- Xcode构建与测试：NOT_RUN，待用户验证。课程T01～T20：NOT_RUN。未执行构建、测试、模拟器、安装清理或Git操作；未开始P017。
